@@ -1,0 +1,26 @@
+Stickers - LEGO Microgame Add-ons
+========================================
+This Microgame Add-On requires: "LEGO Microgame" Version 1.1.0* or greater
+
+You can find more information about this Microgame Add-On here: 
+http://u3d.as/247s
+
+Terms of Service:
+By using this asset you agree to the "LEGO® Microgame Terms of Service". You can consult the Terms of Service in the LEGO Microgame itself: Assets > LEGO > LEGO® Microgame Terms of Service
+
+---------
+*: The LEGO Microgame can be obtained from the Unity Hub
+
+REQUIREMENTS
+# Unity Hub 3.0.0 or greater;
+# Unity Editor 2019.4 LTS or greater
+
+INSTALLATION INSTRUCTIONS
+In the Unity Hub, select the "Projects" tab, click the "New Project" button, from the list of Templates, select the "LEGO® Microgame".
+
+
+Changelog
+---------
+[1.0.0] - 2020-10-19
+The initial release.
+
