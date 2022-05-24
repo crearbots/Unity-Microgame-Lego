@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LEGO/Scenes/Menu Lose.unity
     guid: 23bd42193fd3048b7b6f4dedf8f3317a
+  - enabled: 1
+    path: Assets/LEGO/Scenes/Level 2.unity
+    guid: 804f067d92094dd4181ade0bfcbf0ee3
   m_configObjects: {}
